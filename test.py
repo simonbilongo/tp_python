@@ -9,6 +9,6 @@ prenom = "Alice"
 nom = "Cooper"
 age = 25
 
-message = f"{prenom} {nom.upper()} a {age} ans."
+message = f"{prenom} {nom[0].upper()} a {age} ans."
 
 print(message)

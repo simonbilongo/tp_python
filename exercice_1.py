@@ -23,6 +23,8 @@ et deux fenetre
 # affectation ou affichage d'une chaine de caractere ou un memo sur plusieurs lignes
 print(chaine)
 
+# papa simon
+
 # structure conditionnelle
 
 if x > y:
